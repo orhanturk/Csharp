@@ -1,0 +1,5 @@
+c:\users\orhanturk\documents\visual studio 2015\Projects\SesKontrol\SesKontrol\bin\Debug\SesKontrol.exe
+c:\users\orhanturk\documents\visual studio 2015\Projects\SesKontrol\SesKontrol\bin\Debug\SesKontrol.pdb
+c:\users\orhanturk\documents\visual studio 2015\Projects\SesKontrol\SesKontrol\obj\Debug\SesKontrol.csprojResolveAssemblyReference.cache
+c:\users\orhanturk\documents\visual studio 2015\Projects\SesKontrol\SesKontrol\obj\Debug\SesKontrol.exe
+c:\users\orhanturk\documents\visual studio 2015\Projects\SesKontrol\SesKontrol\obj\Debug\SesKontrol.pdb
