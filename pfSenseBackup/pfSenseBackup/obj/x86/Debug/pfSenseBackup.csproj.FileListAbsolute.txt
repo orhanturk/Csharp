@@ -1,0 +1,13 @@
+D:\pfSenseBackupSourcev2.0\pfSenseBackup\bin\Debug\pfSenseBackup.exe
+D:\pfSenseBackupSourcev2.0\pfSenseBackup\bin\Debug\pfSenseBackup.pdb
+D:\pfSenseBackupSourcev2.0\pfSenseBackup\obj\x86\Debug\pfSenseBackup.exe
+D:\pfSenseBackupSourcev2.0\pfSenseBackup\obj\x86\Debug\pfSenseBackup.pdb
+D:\pfSenseBackupSourcev2.0\pfSenseBackup\bin\Debug\pfSenseBackup.exe.config
+D:\pfSenseBackup\pfSenseBackup\bin\Debug\pfSenseBackup.exe.config
+D:\pfSenseBackup\pfSenseBackup\bin\Debug\pfSenseBackup.exe
+D:\pfSenseBackup\pfSenseBackup\bin\Debug\pfSenseBackup.pdb
+D:\pfSenseBackup\pfSenseBackup\obj\x86\Debug\pfSenseBackup.exe
+D:\pfSenseBackup\pfSenseBackup\obj\x86\Debug\pfSenseBackup.pdb
+D:\MestCalismalar\pfSenseBackup\pfSenseBackup\bin\Debug\pfSenseBackup.exe.config
+D:\MestCalismalar\pfSenseBackup\pfSenseBackup\obj\x86\Debug\pfSenseBackup.exe
+D:\MestCalismalar\pfSenseBackup\pfSenseBackup\obj\x86\Debug\pfSenseBackup.pdb
