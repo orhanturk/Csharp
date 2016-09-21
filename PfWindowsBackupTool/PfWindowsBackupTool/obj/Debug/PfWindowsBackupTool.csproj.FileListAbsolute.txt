@@ -1,0 +1,18 @@
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\bin\Debug\PfWindowsBackupTool.exe
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\bin\Debug\PfWindowsBackupTool.pdb
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.csprojResolveAssemblyReference.cache
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.Form1.resources
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.Properties.Resources.resources
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.csproj.GenerateResource.Cache
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.exe
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.pdb
+c:\users\sistem\documents\visual studio 2013\AndroidSvc\PfWindowsBackupTool\PfWindowsBackupTool\bin\Debug\PfWindowsBackupTool.exe.config
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\bin\Debug\PfWindowsBackupTool.exe.config
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.exe
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.pdb
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\bin\Debug\PfWindowsBackupTool.exe
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\bin\Debug\PfWindowsBackupTool.pdb
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.csprojResolveAssemblyReference.cache
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.Form1.resources
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.Properties.Resources.resources
+D:\MestCalismalar\PfWindowsBackupTool\PfWindowsBackupTool\obj\Debug\PfWindowsBackupTool.csproj.GenerateResource.Cache

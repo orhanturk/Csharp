@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PfWindowsBackupTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="pfserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.2.1</Value>
+    </Setting>
+    <Setting Name="pfuser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="pfpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">!-mokdakm-!</Value>
+    </Setting>
+    <Setting Name="saat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00:00</Value>
+    </Setting>
+    <Setting Name="aktif" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
